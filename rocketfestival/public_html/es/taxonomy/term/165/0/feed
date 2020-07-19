@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Bernardo Hangar</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/165/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Bernardo Hangar</title>
+ <link>http://rocketfestival.com/es/content/bernardo-hangar-0</link>
+ <description>&lt;p&gt;&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/en/content/bernardo-hangar&quot;&gt;&lt;img src=&quot;/files/images/BERNARDO.inline.jpg&quot; class=&quot;image image-inline&quot; height=&quot;278&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/bernardo-hangar-0&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/es/bernardo-hangar">Bernardo Hangar</category>
+ <category domain="http://rocketfestival.com/es/dancetent">Dance Tent</category>
+ <pubDate>Mon, 28 Apr 2008 16:08:23 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">733 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

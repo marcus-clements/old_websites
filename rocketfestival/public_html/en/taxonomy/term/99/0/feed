@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Los Delinquentes</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/99/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Los Delinquentes</title>
+ <link>http://rocketfestival.com/en/content/los-delinquentes-0</link>
+ <description>&lt;p&gt;
+&amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/es/content/los-delinquentes-1&quot;&gt;&lt;img width=&quot;300&quot; src=&quot;/files/images/Delinquentes%202.inline.jpg&quot; alt=&quot;Ahi hay peligro&quot; height=&quot;199&quot; title=&quot;Ahi hay peligro&quot; class=&quot;image image-inline&quot; /&gt;&lt;/a&gt;&lt;span style=&quot;width: 298px&quot; class=&quot;caption&quot;&gt;&lt;b&gt;Ahi hay peligro&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/los-delinquentes-0&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rocketfestival.com/en/content/los-delinquentes-0#comments</comments>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/52">Headliners</category>
+ <category domain="http://rocketfestival.com/en/mainstage">Main Stage</category>
+ <category domain="http://rocketfestival.com/en/los-delinquentes">Los Delinquentes</category>
+ <pubDate>Fri, 29 Feb 2008 13:44:14 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">460 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Los Delinquentes- A la luz del Lorenzo</title>
+ <link>http://rocketfestival.com/en/content/los-delinquentes-la-luz-del-lorenzo</link>
+ <description></description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/39">Videos</category>
+ <category domain="http://rocketfestival.com/en/los-delinquentes">Los Delinquentes</category>
+ <pubDate>Wed, 13 Feb 2008 22:05:35 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">388 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

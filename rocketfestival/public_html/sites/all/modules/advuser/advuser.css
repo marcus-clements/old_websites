@@ -1,0 +1,39 @@
+#advuser-admin-filter{
+padding:0;
+}
+#advuser-admin-filter ul li{
+list-style:none;
+}
+#advuser-admin-filter dt{
+display:none;
+}
+#advuser-admin-filter dd.a{
+width:40%;
+}
+#advuser-admin-filter dd.b{
+margin:0;
+width:55%;
+}
+#advuser-admin-filter dd.b .form-text{
+width:99%;
+padding:2px 5px;
+}
+#advuser-admin-filter dd.a .form-item{
+width:auto;
+}
+#advuser-admin-filter dd.b{
+float:left;
+}
+#advuser-admin-buttons{
+clear:both;
+padding:20px 0;
+}
+
+.advuser-inset-panel { 
+  border: solid 2px blue;
+  padding: 1em; 
+}
+
+.advuser-settings-warning { 
+  border: solid 2px orange; padding: 1em; background-color:yellow; color:red;  margin-bottom: 1em;
+}

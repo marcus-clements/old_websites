@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Boletín del Rocket Festival</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/108/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>New Years Eve Party</title>
+ <link>http://rocketfestival.com/en/content/new-years-eve-party-0</link>
+ <description>&lt;p&gt;It&#039;s late notice but we&#039;re not satisified with the party options for New Years Eve this year, so we&#039;re doing one of our own. For those of you who have been to the last two years at Play Cantarrijan you&#039;ll know how much fun they have been.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/new-years-eve-party-0&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rocketfestival.com/en/content/new-years-eve-party-0#comments</comments>
+ <category domain="http://rocketfestival.com/en/boletin-del-rocket-festival">Boletín del Rocket Festival</category>
+ <pubDate>Thu, 18 Dec 2008 22:31:00 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">840 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>test html newsletter</title>
+ <link>http://rocketfestival.com/en/content/test-html-newsletter</link>
+ <description>&lt;p&gt;testing the newsletter&lt;/p&gt;
+</description>
+ <comments>http://rocketfestival.com/en/content/test-html-newsletter#comments</comments>
+ <category domain="http://rocketfestival.com/en/boletin-del-rocket-festival">Boletín del Rocket Festival</category>
+ <pubDate>Sun, 02 Mar 2008 11:21:41 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">480 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

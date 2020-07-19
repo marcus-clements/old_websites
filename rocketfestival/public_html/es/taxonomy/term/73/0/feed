@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Transformer</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/73/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Transformer</title>
+ <link>http://rocketfestival.com/es/content/transformer-0</link>
+ <description>&lt;p&gt;Transformer todavía se encuentra en su más tierna infancia, pero a juzgar por su puesta en escena, este trío crecerá y desarrollará más y mejores trabajos. Su estilo de electro pop ochentero en el teclado se encuentra con el punk funk las guitarras, además de toparse ocasionalmente con la aparición de alguna trompeta y las voces directas, mitad habladas, mitad cantadas.&lt;/p&gt;
+</description>
+ <comments>http://rocketfestival.com/es/content/transformer-0#comments</comments>
+ <category domain="http://rocketfestival.com/es/cabezasdelcartel">Cabezas del Cartel</category>
+ <category domain="http://rocketfestival.com/es/escenarioprincipal">Escenario Principal</category>
+ <category domain="http://rocketfestival.com/es/transformer">Transformer</category>
+ <pubDate>Wed, 13 Feb 2008 17:28:22 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">375 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - PPM</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/118/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>PPM</title>
+ <link>http://rocketfestival.com/es/content/ppm</link>
+ <description>&lt;p&gt;
+&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/en/content/ppm-blanco-y-negro&quot;&gt;&lt;img src=&quot;/files/images/PPMblancoynegro.inline.jpg&quot; class=&quot;image image-inline&quot; height=&quot;225&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
+P.P.M. comenzó su carrera a finales del 89, las buenas críticas recibidas por sus primeras maquetas y sobre todo por sus numerosos y potentes conciertos a lo largo de todo el país le abrieron las puertas del mercado discográfico.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/ppm&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/es/ppm">PPM</category>
+ <pubDate>Sat, 05 Apr 2008 15:06:20 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">570 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

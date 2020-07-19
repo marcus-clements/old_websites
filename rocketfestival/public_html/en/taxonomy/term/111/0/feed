@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Hedflux</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/111/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Hedflux</title>
+ <link>http://rocketfestival.com/en/content/hedflux-0</link>
+ <description>&lt;p&gt;&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/en/content/hedflux&quot;&gt;&lt;img src=&quot;/files/images/hedflux.inline.jpg&quot; alt=&quot;Hedflux&quot; title=&quot;Hedflux&quot; class=&quot;image image-inline&quot; height=&quot;205&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;caption&quot; style=&quot;width: 298px&quot;&gt;&lt;b&gt;Hedflux&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+Hedflux is DJ/Producer Steve Young. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/hedflux-0&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/dancetent">Dance Tent</category>
+ <category domain="http://rocketfestival.com/en/hedflux">Hedflux</category>
+ <pubDate>Mon, 17 Mar 2008 22:10:08 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">518 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

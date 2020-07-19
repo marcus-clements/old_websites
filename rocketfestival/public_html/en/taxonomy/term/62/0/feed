@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Think</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/62/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Think</title>
+ <link>http://rocketfestival.com/en/content/think</link>
+ <description>&lt;p&gt;Welcome. So, who are THiNK....? Think Rhythm. Think Horns. Think&lt;br /&gt;
+vocals. Providing propulsion from the back...on Drums Art Beatum. On&lt;br /&gt;
+Musicman electric bass and Synth...the Switch doctor, Robbie&lt;br /&gt;
+Stamp....and gluing the rhythm section too-gether Roger guitar Watson.&lt;br /&gt;
+...&lt;/p&gt;
+</description>
+ <comments>http://rocketfestival.com/en/content/think#comments</comments>
+ <category domain="http://rocketfestival.com/en/mainstage">Main Stage</category>
+ <category domain="http://rocketfestival.com/en/think">Think</category>
+ <pubDate>Thu, 07 Feb 2008 18:18:29 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">262 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

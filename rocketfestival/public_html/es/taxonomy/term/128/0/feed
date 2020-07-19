@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Top 100</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/128/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>All Time Top 100</title>
+ <link>http://rocketfestival.com/es/content/all-time-top-100-0</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/all-time-top-100-0&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/es/top-100">Top 100</category>
+ <pubDate>Thu, 10 Apr 2008 12:07:41 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">608 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

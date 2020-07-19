@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Killavolts</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/125/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Killavolts</title>
+ <link>http://rocketfestival.com/en/content/killavolts</link>
+ <description>&lt;p&gt;
+&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/en/content/killavolts-live&quot;&gt;&lt;img src=&quot;/files/images/killavolts%20live.inline.JPG&quot; alt=&quot;Caution High Voltage&quot; title=&quot;Caution High Voltage&quot; class=&quot;image image-inline&quot; height=&quot;225&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;caption&quot; style=&quot;width: 298px&quot;&gt;&lt;b&gt;Caution High Voltage&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;Sounding like 80&#039;s disco vocodered through Altern-8 synths and fractured dub bass, killaVolts have been whipping up a tour de force of live sound on stages across the UK and Europe since 2006.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/killavolts&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/killavolts">Killavolts</category>
+ <pubDate>Mon, 07 Apr 2008 18:15:49 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">589 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

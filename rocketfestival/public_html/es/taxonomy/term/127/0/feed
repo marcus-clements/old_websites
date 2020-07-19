@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Los Vecino de Callejón</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/127/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Los Vecinos de Callejón</title>
+ <link>http://rocketfestival.com/es/content/los-vecinos-de-callejon</link>
+ <description>&lt;p&gt;
+&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/es/content/los-vecinos-de-callejon-0&quot;&gt;&lt;img src=&quot;/files/images/Los%20Vecinos%20de%20Callej%C3%B3n.inline.jpg&quot; class=&quot;image image-inline&quot; height=&quot;204&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
+Los Vecinos del Callejón son ocho jóvenes músicos de distinta procedencia que se encuentran en un callejón de Granada a finales del 2005. Tras unos meses de duro ensayo y búsqueda de un estilo afín a todos sus integrantes, la banda se decide a apostar por la multiculturalidad y el mestizaje.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/los-vecinos-de-callejon&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/es/escenarioprincipal">Escenario Principal</category>
+ <category domain="http://rocketfestival.com/es/los-vecino-de-callejon">Los Vecino de Callejón</category>
+ <pubDate>Tue, 08 Apr 2008 13:01:54 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">598 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

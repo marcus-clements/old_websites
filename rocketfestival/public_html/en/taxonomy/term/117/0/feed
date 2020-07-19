@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Twisted Skunk</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/117/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Twisted Skunk</title>
+ <link>http://rocketfestival.com/en/content/twisted-skunk</link>
+ <description>&lt;p&gt;&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/en/content/zav-panama&quot;&gt;&lt;img src=&quot;/files/images/Zav%20Panama.inline.jpg&quot; alt=&quot;El Senor ZAV&quot; title=&quot;El Senor ZAV&quot; class=&quot;image image-inline&quot; height=&quot;210&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;caption&quot; style=&quot;width: 298px&quot;&gt;&lt;b&gt;El Senor ZAV&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;TWISTED SKUNK is Producer/Designer Christian &#039;Zav&#039; Zavanaiu.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/twisted-skunk&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/dancetent">Dance Tent</category>
+ <category domain="http://rocketfestival.com/en/twisted-skunk">Twisted Skunk</category>
+ <pubDate>Fri, 28 Mar 2008 13:59:18 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">548 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

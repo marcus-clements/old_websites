@@ -1,0 +1,1 @@
+photoframe('drop-shadow');

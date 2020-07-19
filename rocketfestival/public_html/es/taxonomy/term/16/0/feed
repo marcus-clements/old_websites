@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Info</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/16/0</link>
+ <description>All about the Rocket, useful information, dos and don&#039;ts, festival ethos and mission.</description>
+ <language>es</language>
+<item>
+ <title>Quick video of Rocket 2005</title>
+ <link>http://rocketfestival.com/es/content/quick-video-rocket-2005</link>
+ <description>&lt;p&gt;This video was made by Mark Scarratt of &lt;a href=&quot;http://www.brightonart.co.uk&quot; target=&quot;_blank&quot;&gt;Brightonart&lt;/a&gt; as a promo for Rocket 2006.&lt;/p&gt;
+</description>
+ <comments>http://rocketfestival.com/es/content/quick-video-rocket-2005#comments</comments>
+ <category domain="http://rocketfestival.com/es/taxonomy/term/16">Info</category>
+ <category domain="http://rocketfestival.com/es/taxonomy/term/39">Videos</category>
+ <pubDate>Fri, 25 Jan 2008 18:26:23 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">202 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

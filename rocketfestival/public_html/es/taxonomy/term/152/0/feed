@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Peter Paul</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/152/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Peter Paul</title>
+ <link>http://rocketfestival.com/es/content/peter-paul</link>
+ <description>&lt;p&gt;
+Pedro Pablo Perez o aka Peter Paul. , nacido en Sevilla el 6-dic-76 , deejay y compositor de musica electronica desde el año 92.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/peter-paul&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/es/carpadebaile">Carpa de Baile</category>
+ <category domain="http://rocketfestival.com/es/peter-paul">Peter Paul</category>
+ <pubDate>Mon, 21 Apr 2008 14:51:02 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">684 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Entradas</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/25/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Comprar entradas</title>
+ <link>http://rocketfestival.com/es/content/comprar-entradas</link>
+ <description>&lt;h1&gt;Entradas para residentes en España&lt;/h1&gt;
+&lt;p&gt;
+&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/en/content/happypeople&quot;&gt;&lt;img src=&quot;/files/images/happy_people.inline.JPG&quot; class=&quot;image image-inline&quot; height=&quot;200&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;/p&gt;
+&lt;h4&gt;65€ (+ gastos de distribución) para todo el fin de semana.&lt;br /&gt;
+&lt;/h4&gt;
+&lt;h4&gt;50€ (+ gastos de distribución) entrada para dos días (Sábado y domingo) &lt;/h4&gt;
+&lt;p&gt;
+El entretenimiento comienza el viernes 16 de mayo a las 12:00h y acaba el lunes por la mañana a las 08:00h.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/comprar-entradas&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/es/taxonomy/term/25">Entradas</category>
+ <pubDate>Tue, 18 Dec 2007 22:03:58 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">17 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

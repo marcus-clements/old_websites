@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Zen Hussies</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/61/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Zen Hussies - Communal Viper</title>
+ <link>http://rocketfestival.com/en/content/zen-hussies-communal-viper</link>
+ <description></description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/39">Videos</category>
+ <category domain="http://rocketfestival.com/en/zen-hussies">Zen Hussies</category>
+ <pubDate>Thu, 07 Feb 2008 18:38:40 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">263 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Zen Hussies</title>
+ <link>http://rocketfestival.com/en/content/zen-hussies</link>
+ <description>&lt;p&gt;
+&lt;span style=&quot;font-size: 1.5em&quot;&gt;&lt;/span&gt;&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/en/content/old-zen-hussies&quot;&gt;&lt;img src=&quot;/files/images/DecZenHussies.inline.jpg&quot; class=&quot;image image-inline&quot; height=&quot;300&quot; width=&quot;210&quot; /&gt;&lt;/a&gt;&lt;/span&gt;The inimitables &lt;b&gt;Zen Hussies&lt;/b&gt; have been dutifully administering &lt;i&gt;goodtime swingska boogaloo&lt;/i&gt; at pubs, clubs, weddings, wakes, boat-bailings, bah-mitzvahs, house clearances, festies &amp;amp; coffee mornings in Europe and beyond, since 2001, recently they were awarded the dubious title of the West Countrys&#039; Most Exclusive Drinking Club.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/zen-hussies&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rocketfestival.com/en/content/zen-hussies#comments</comments>
+ <category domain="http://rocketfestival.com/en/mainstage">Main Stage</category>
+ <category domain="http://rocketfestival.com/en/zen-hussies">Zen Hussies</category>
+ <pubDate>Thu, 07 Feb 2008 18:03:16 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">261 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

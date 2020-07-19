@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - RRRadiogee</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/129/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>RRRadiogee Fuengirola Live</title>
+ <link>http://rocketfestival.com/en/content/rrradiogee-fuengirola-live</link>
+ <description></description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/39">Videos</category>
+ <category domain="http://rocketfestival.com/en/rrradiogee">RRRadiogee</category>
+ <pubDate>Fri, 11 Apr 2008 12:33:08 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">612 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>RRRadiogee</title>
+ <link>http://rocketfestival.com/en/content/rrradiogee</link>
+ <description>&lt;p&gt;&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/en/content/rrradiogee-0&quot;&gt;&lt;img src=&quot;/files/images/RRRadiogee.inline.jpg&quot; class=&quot;image image-inline&quot; height=&quot;150&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/span&gt;RRRadiogee are a loose collective of mutant musical contractors hailing from the remains of The Seven Kevins,Lost The Plot, Celtic Tiger, The Fields, Crunchy Frog and Jungle Juice, amongst other legendary international combos.....&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/rrradiogee&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/rrradiogee">RRRadiogee</category>
+ <pubDate>Fri, 11 Apr 2008 10:18:32 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">610 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - The Nextmen</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/58/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>The Nextmen</title>
+ <link>http://rocketfestival.com/es/content/nextmen-0</link>
+ <description>&lt;p&gt;&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/es/content/nextmen-live&quot;&gt;&lt;img src=&quot;/files/images/nextmen%20live.jpg&quot; class=&quot;image image-inline&quot; height=&quot;180&quot; width=&quot;240&quot; /&gt;&lt;/a&gt;&lt;/span&gt;Cambridge es mundialmente conocida por su Universidad, su increíble&lt;br /&gt;
+cantidad de ciclistas, un equipo de fútbol terrible, un río hecho para&lt;br /&gt;
+hacer &lt;i&gt;punting&lt;/i&gt;, un festival de folk y porque es el hogar de Stephen&lt;br /&gt;
+Hawking, Clive James y Jeffrey Archer. Hay que admitir que no es el&lt;br /&gt;
+lugar más adecuado para buscar creadores de música de baile puntera.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/nextmen-0&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rocketfestival.com/es/content/nextmen-0#comments</comments>
+ <category domain="http://rocketfestival.com/es/cabezasdelcartel">Cabezas del Cartel</category>
+ <category domain="http://rocketfestival.com/es/carpadebaile">Carpa de Baile</category>
+ <category domain="http://rocketfestival.com/es/nextmen">The Nextmen</category>
+ <pubDate>Tue, 12 Feb 2008 17:51:32 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">362 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>The Nextmen FabricLive</title>
+ <link>http://rocketfestival.com/es/content/nextmen-fabriclive</link>
+ <description></description>
+ <category domain="http://rocketfestival.com/es/taxonomy/term/39">Videos</category>
+ <category domain="http://rocketfestival.com/es/nextmen">The Nextmen</category>
+ <pubDate>Thu, 07 Feb 2008 15:28:30 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">254 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>The Nextmen- Something got you</title>
+ <link>http://rocketfestival.com/es/content/nextmen-something-got-you</link>
+ <description></description>
+ <category domain="http://rocketfestival.com/es/taxonomy/term/39">Videos</category>
+ <category domain="http://rocketfestival.com/es/nextmen">The Nextmen</category>
+ <pubDate>Thu, 07 Feb 2008 15:23:42 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">253 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Calvin Party</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/113/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Calvin Party - Broken Flowers</title>
+ <link>http://rocketfestival.com/en/content/calvin-party-broken-flowers</link>
+ <description></description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/39">Videos</category>
+ <category domain="http://rocketfestival.com/en/calvin-party">Calvin Party</category>
+ <pubDate>Wed, 19 Mar 2008 17:44:57 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">535 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Calvin Party</title>
+ <link>http://rocketfestival.com/en/content/calvin-party-0</link>
+ <description>&lt;p&gt;
+&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/en/content/calvin-party&quot;&gt;&lt;img src=&quot;/files/images/calvinpartybpool2.inline.jpg&quot; alt=&quot;Calvin Party&quot; title=&quot;Calvin Party&quot; class=&quot;image image-inline&quot; height=&quot;248&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;caption&quot; style=&quot;width: 298px&quot;&gt;&lt;b&gt;Calvin Party&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;Calvin Party from Manchester, have just released their 4th&lt;br /&gt;
+album &#039;GODARD&#039;S GIRLFRIEND&#039;. They make a cantankerous, melodic&lt;br /&gt;
+music&amp;quot; that&#039;s difficult to pin down or comfortably slot into a box.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/calvin-party-0&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/calvin-party">Calvin Party</category>
+ <pubDate>Wed, 19 Mar 2008 17:29:32 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">533 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

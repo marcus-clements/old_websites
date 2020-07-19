@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Hey Molly</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/114/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Hey Molly</title>
+ <link>http://rocketfestival.com/en/content/hey-molly-0</link>
+ <description>&lt;p&gt;&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/hey-molly-0&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/hey-molly">Hey Molly</category>
+ <pubDate>Thu, 20 Mar 2008 19:02:45 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">537 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival -</title>
+ <link>http://rocketfestival.com/es/ultimo_envio</link>
+ <description>Latest web update in Spanish(teaser)</description>
+ <language>es</language>
+<item>
+ <title>Fiesta de la noche vieja</title>
+ <link>http://rocketfestival.com/es/content/fiesta-de-la-noche-vieja-0</link>
+ <description>&lt;p&gt;¿Sabes ya que vas hacer la noche vieja?&lt;/p&gt;
+&lt;p&gt;No estamos contento con los opciones que hay entonces hemos organizado un fiestón de estilo Rocket. Si viniste el año pasado o el anterior ya sabes que divertido sea.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/fiesta-de-la-noche-vieja-0&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rocketfestival.com/es/content/fiesta-de-la-noche-vieja-0#comments</comments>
+ <category domain="http://rocketfestival.com/es/boletin-del-rocket-festival">Boletín del Rocket Festival</category>
+ <pubDate>Thu, 18 Dec 2008 22:39:13 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">841 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

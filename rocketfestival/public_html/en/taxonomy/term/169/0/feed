@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Loona</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/169/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Loona</title>
+ <link>http://rocketfestival.com/en/content/loona-0</link>
+ <description>&lt;p style=&quot;background: white none repeat scroll 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/loona-0&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/dancetent">Dance Tent</category>
+ <category domain="http://rocketfestival.com/en/loona">Loona</category>
+ <pubDate>Tue, 29 Apr 2008 08:10:03 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">743 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

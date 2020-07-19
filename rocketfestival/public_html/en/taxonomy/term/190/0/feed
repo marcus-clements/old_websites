@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Angus Watt</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/190/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>The Flags by Angus Watt</title>
+ <link>http://rocketfestival.com/en/content/flags-angus-watt</link>
+ <description>&lt;p align=&quot;center&quot;&gt;
+&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/content/flags&quot;&gt;&lt;img src=&quot;/files/images/Flags.inline.jpg&quot; class=&quot;image image-inline&quot; height=&quot;146&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Created  by Angus Watt.
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Working with The Elements....&lt;br /&gt;
+.....
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Specializing in making dynamic and inspirational flags since 1993 to create a unique land-art form....
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Based in UK and Spain
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+For more information, go to http://anguswatt.net/ 
+&lt;/p&gt;
+</description>
+ <category domain="http://rocketfestival.com/en/angus-watt">Angus Watt</category>
+ <pubDate>Mon, 12 May 2008 19:27:46 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">811 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Cashiopea</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/180/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Cashiopea</title>
+ <link>http://rocketfestival.com/es/content/cashiopea</link>
+ <description>&lt;p&gt;
+Los hombres de gris han aterrizado en el Rocket festival para liarte y robarte todo tu tiempo. Tu tiempo es tu vida, un juego de sucesos entretejidos, de pasados confusos, presentes difusos y futuros inciertos. Pero la cashiopea conseguirá atraparte porque allí sentirás, simplemente, que el tiempo se desvanece, que el niñ@ que eres resurge para desplazar a la persona mayor que te crees que eres. Nos quedaremos con vuestro tiempo; os quedareis con todo y más.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/cashiopea&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/es/taxonomy/term/24">Zonas</category>
+ <category domain="http://rocketfestival.com/es/cashiopea">Cashiopea</category>
+ <pubDate>Tue, 06 May 2008 18:43:25 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">783 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

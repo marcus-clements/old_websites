@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Transformer</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/73/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Transformer- Cinema Car</title>
+ <link>http://rocketfestival.com/en/content/transformer-cinema-car</link>
+ <description></description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/39">Videos</category>
+ <category domain="http://rocketfestival.com/en/transformer">Transformer</category>
+ <pubDate>Mon, 31 Mar 2008 23:01:56 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">559 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Transformer</title>
+ <link>http://rocketfestival.com/en/content/transformer</link>
+ <description>&lt;p&gt;
+Transformer are a band still in their infancy but judging by their performances this trio will go on to bigger and better things. Eighties style electro pop keyboards meets punk funk guitars with the occasional trumpet thrown in for good measure, with the straightforward vocals half spoken half sung.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/transformer&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rocketfestival.com/en/content/transformer#comments</comments>
+ <category domain="http://rocketfestival.com/en/mainstage">Main Stage</category>
+ <category domain="http://rocketfestival.com/en/transformer">Transformer</category>
+ <pubDate>Tue, 12 Feb 2008 13:00:11 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">345 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

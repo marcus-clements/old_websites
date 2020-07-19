@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Artistas</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/23/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Historia de Serge Santiago</title>
+ <link>http://rocketfestival.com/es/content/historia-de-serge-santiago</link>
+ <description>&lt;p&gt;
+Serge Santiago hablando sobre producción: “Empecé a producir porque estaba frecuentando mucho los locales nocturnos y quería involucrarme un poco más, así que usando mi viejo ordenador empecé a enseñarme a mí mismo cómo editar beats. Desde entonces probablemente haya creado entre 50 y 100 temas a medio hacer hasta que acabé uno… Y a ese lo llamé ‘Push it’ (utilizando un sample de la canción Salt n’Peppa). Es divertido, si lo escucho ahora puedo verme a mí mismo aprendiendo con el tema; ¡Es genial! Bueno, de todas formas decidimos que era un clásico&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/historia-de-serge-santiago&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/es/taxonomy/term/23">Artistas</category>
+ <category domain="http://rocketfestival.com/es/serge-santiago">Serge Santiago</category>
+ <pubDate>Tue, 18 Mar 2008 14:02:55 +0000</pubDate>
+ <dc:creator>ruth.marin.gallardo</dc:creator>
+ <guid isPermaLink="false">521 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Breve Historia de Bad Manners</title>
+ <link>http://rocketfestival.com/es/content/breve-historia-de-bad-manners</link>
+ <description>&lt;p class=&quot;western&quot; align=&quot;center&quot;&gt;
+&lt;span style=&quot;font-family: Arial,Helvetica,sans-serif&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/breve-historia-de-bad-manners&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/es/taxonomy/term/23">Artistas</category>
+ <category domain="http://rocketfestival.com/es/cabezasdelcartel">Cabezas del Cartel</category>
+ <category domain="http://rocketfestival.com/es/escenarioprincipal">Escenario Principal</category>
+ <category domain="http://rocketfestival.com/es/bad-manners">Bad Manners</category>
+ <pubDate>Wed, 12 Mar 2008 17:51:38 +0000</pubDate>
+ <dc:creator>ruth.marin.gallardo</dc:creator>
+ <guid isPermaLink="false">503 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

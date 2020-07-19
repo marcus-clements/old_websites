@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Prensa</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/28/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Patrocinadores</title>
+ <link>http://rocketfestival.com/es/content/patrocinadores</link>
+ <description>&lt;p&gt;&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/en/content/raving1&quot;&gt;&lt;img src=&quot;/files/images/Raving1.inline.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; class=&quot;image image-inline&quot; /&gt;&lt;/a&gt;&lt;/span&gt;La organización del festival está encantada de recibir a cualquier organización o individuos que estén interesados en patrocinar el evento del 2008.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/patrocinadores&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/es/taxonomy/term/28">Prensa</category>
+ <pubDate>Sun, 24 Feb 2008 00:41:46 +0000</pubDate>
+ <dc:creator>ruth.marin.gallardo</dc:creator>
+ <guid isPermaLink="false">423 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Información para prensa</title>
+ <link>http://rocketfestival.com/es/content/informacion-para-prensa</link>
+ <description>&lt;p&gt;&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/informacion-para-prensa&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/es/taxonomy/term/28">Prensa</category>
+ <pubDate>Sat, 23 Feb 2008 23:57:12 +0000</pubDate>
+ <dc:creator>ruth.marin.gallardo</dc:creator>
+ <guid isPermaLink="false">422 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

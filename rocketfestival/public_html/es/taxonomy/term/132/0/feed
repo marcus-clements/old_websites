@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - NoPreset Records</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/132/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>NoPreset Records</title>
+ <link>http://rocketfestival.com/es/content/nopreset-records</link>
+ <description>&lt;p&gt;
+NOPRESET Records se consolida a principios del 2008 como sello discografico y agencia de managament, apostando por la musica de baile muy evolucionada y llevada a la cultura de la creaciòn de sonidos y ritmos muy a la vanguardia de lo que se mueve en las grandes capitales mundiales del arte como Berlin, New York, Londres, Madrid/Barcelona, Paris, Roma, Tokyo....
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/nopreset-records&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/es/carpadebaile">Carpa de Baile</category>
+ <category domain="http://rocketfestival.com/es/nopreset-records">NoPreset Records</category>
+ <pubDate>Tue, 15 Apr 2008 12:14:43 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">616 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

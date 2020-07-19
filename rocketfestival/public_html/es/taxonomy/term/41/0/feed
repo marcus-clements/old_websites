@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - coldcut</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/41/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Coldcut</title>
+ <link>http://rocketfestival.com/es/content/coldcut-0</link>
+ <description>&lt;h2&gt;Coldcut present &#039; Journeys by VJ&#039; with guests Raj Pannu &amp;amp; MC Juice Aleem &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/coldcut-0&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rocketfestival.com/es/content/coldcut-0#comments</comments>
+ <category domain="http://rocketfestival.com/es/cabezasdelcartel">Cabezas del Cartel</category>
+ <category domain="http://rocketfestival.com/es/escenarioprincipal">Escenario Principal</category>
+ <category domain="http://rocketfestival.com/es/coldcut">coldcut</category>
+ <pubDate>Wed, 27 Feb 2008 18:00:41 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">446 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Coldcut Live at Eurokennes Festival 3</title>
+ <link>http://rocketfestival.com/es/content/coldcut-live-eurokennes-festival-3</link>
+ <description>&lt;p&gt;Jungle Drummer can CanCan, Revolution 1+2&lt;/p&gt;
+</description>
+ <comments>http://rocketfestival.com/es/content/coldcut-live-eurokennes-festival-3#comments</comments>
+ <category domain="http://rocketfestival.com/es/taxonomy/term/39">Videos</category>
+ <category domain="http://rocketfestival.com/es/coldcut">coldcut</category>
+ <pubDate>Tue, 29 Jan 2008 16:43:27 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">222 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Coldcut Live at Eurokennes Festival 2</title>
+ <link>http://rocketfestival.com/es/content/coldcut-live-eurokennes-festival-2</link>
+ <description>&lt;p&gt;Beats and Pieces&lt;/p&gt;
+</description>
+ <comments>http://rocketfestival.com/es/content/coldcut-live-eurokennes-festival-2#comments</comments>
+ <category domain="http://rocketfestival.com/es/taxonomy/term/39">Videos</category>
+ <category domain="http://rocketfestival.com/es/coldcut">coldcut</category>
+ <pubDate>Tue, 29 Jan 2008 16:41:55 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">221 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Coldcut Live at Eurokennes Festival 1</title>
+ <link>http://rocketfestival.com/es/content/coldcut-live-eurokennes-festival-1</link>
+ <description>&lt;p&gt;Beats and Pieces&lt;/p&gt;
+</description>
+ <comments>http://rocketfestival.com/es/content/coldcut-live-eurokennes-festival-1#comments</comments>
+ <category domain="http://rocketfestival.com/es/taxonomy/term/39">Videos</category>
+ <category domain="http://rocketfestival.com/es/coldcut">coldcut</category>
+ <pubDate>Tue, 29 Jan 2008 16:37:52 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">220 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

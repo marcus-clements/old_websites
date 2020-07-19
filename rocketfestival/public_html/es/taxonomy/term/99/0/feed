@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Los Delinquentes</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/99/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Los Delinquentes</title>
+ <link>http://rocketfestival.com/es/content/los-delinquentes</link>
+ <description>&lt;p&gt;&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/es/content/los-delinquentes-1&quot;&gt;&lt;img src=&quot;/files/images/Delinquentes%202.inline.jpg&quot; width=&quot;300&quot; height=&quot;199&quot; class=&quot;image image-inline&quot; title=&quot;Ahi hay peligro&quot; alt=&quot;Ahi hay peligro&quot; /&gt;&lt;/a&gt;&lt;span style=&quot;width: 298px&quot; class=&quot;caption&quot;&gt;&lt;b&gt;Ahi hay peligro&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;Los Delinquentes se crearon en 1998, al principio dos amigos del Instituto, Marcos del Ojo, El canijo, y Miguel A. Benítez, El migue, empezaron a suspirar por los aires de sus macetas y forjaron la esencia del grupo.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/los-delinquentes&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rocketfestival.com/es/content/los-delinquentes#comments</comments>
+ <category domain="http://rocketfestival.com/es/cabezasdelcartel">Cabezas del Cartel</category>
+ <category domain="http://rocketfestival.com/es/escenarioprincipal">Escenario Principal</category>
+ <category domain="http://rocketfestival.com/es/los-delinquentes">Los Delinquentes</category>
+ <pubDate>Thu, 28 Feb 2008 19:20:37 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">456 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Los Delinquentes- A la luz del Lorenzo</title>
+ <link>http://rocketfestival.com/es/content/los-delinquentes-la-luz-del-lorenzo</link>
+ <description></description>
+ <category domain="http://rocketfestival.com/es/taxonomy/term/39">Videos</category>
+ <category domain="http://rocketfestival.com/es/los-delinquentes">Los Delinquentes</category>
+ <pubDate>Wed, 13 Feb 2008 22:05:35 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">388 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

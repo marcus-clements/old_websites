@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Think</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/62/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Think</title>
+ <link>http://rocketfestival.com/es/content/think-0</link>
+ <description>&lt;p&gt;Buenas. Entonces, quiénes son THiNK....? Piensa en ritmo. Piensa en vientos. piensa en voces. Proporcionando propulsión desde hace tiempo con Drums Art Beatum. Música de bajo eléctrico y sintetizador con el doctor Switch, Robbie&lt;br /&gt;
+Stamp.... y pegando la sección rítmica y la guitarra de Roger Watson...&lt;/p&gt;
+</description>
+ <category domain="http://rocketfestival.com/es/escenarioprincipal">Escenario Principal</category>
+ <category domain="http://rocketfestival.com/es/think">Think</category>
+ <pubDate>Mon, 07 Apr 2008 08:45:39 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">585 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

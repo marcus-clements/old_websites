@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Jordi Slate</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/142/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Jordi Slate</title>
+ <link>http://rocketfestival.com/es/content/jordi-slate-0</link>
+ <description>&lt;p&gt;&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/jordi-slate-0&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/es/dancetent">Dance Tent</category>
+ <category domain="http://rocketfestival.com/es/jordi-slate">Jordi Slate</category>
+ <pubDate>Tue, 15 Apr 2008 19:14:40 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">642 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

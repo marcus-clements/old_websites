@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Top 100</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/128/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>All Time Top 100</title>
+ <link>http://rocketfestival.com/en/content/all-time-top-100</link>
+ <description>&lt;p&gt;
+&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/en/content/top-100-logo&quot;&gt;&lt;img src=&quot;/files/images/cricle_logo.inline.jpg&quot; class=&quot;image image-inline&quot; height=&quot;295&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
+It&#039;s simple really. All Time Top 100 celebrates diversity within the wonderful world of music by inviting guests from all sorts of musical backgrounds to count down their All Time Top 100 &#039;couldn&#039;t live without&#039; tunes. One DJ each week, for one night only. Decks are open to bands, artists, DJs, producers, journalists, promoters, retailers, tastemakers, collectors - in fact anyone with a passion for music.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/all-time-top-100&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/space-bar">Space Bar</category>
+ <category domain="http://rocketfestival.com/en/top-100">Top 100</category>
+ <pubDate>Thu, 10 Apr 2008 09:26:07 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">606 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

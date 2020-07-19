@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Rocket Newsletter</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/10/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>test español</title>
+ <link>http://rocketfestival.com/es/content/test-espanol</link>
+ <description>test test</description>
+ <comments>http://rocketfestival.com/es/content/test-espanol#comments</comments>
+ <category domain="http://rocketfestival.com/es/rocket-newsletter-english">Rocket Newsletter</category>
+ <pubDate>Sat, 01 Mar 2008 23:21:40 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">479 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Test en español</title>
+ <link>http://rocketfestival.com/es/content/test-en-espanol</link>
+ <description>&lt;p&gt;test simple news&lt;/p&gt;
+</description>
+ <comments>http://rocketfestival.com/es/content/test-en-espanol#comments</comments>
+ <category domain="http://rocketfestival.com/es/rocket-newsletter-english">Rocket Newsletter</category>
+ <pubDate>Sat, 01 Mar 2008 23:05:56 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">477 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

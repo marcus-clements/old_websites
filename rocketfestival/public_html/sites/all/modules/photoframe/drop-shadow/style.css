@@ -1,0 +1,60 @@
+.photoframe-drop-shadow-table {
+	border-collapse:collapse;
+}
+.photoframe-drop-shadow-table td {
+	padding:0px;
+}
+.photoframe-drop-shadow-t {
+	background-image:url(t.png);
+	background-position:top;
+	background-repeat:repeat-x;
+}
+.photoframe-drop-shadow-l {
+	background-image:url(l.png);
+	background-position:left;
+	background-repeat:repeat-y;
+}
+.photoframe-drop-shadow-r {
+	background-image:url(r.png);
+	background-position:right;
+	background-repeat:repeat-y;
+	vertical-align:top;
+}
+.photoframe-drop-shadow-r div {
+	background-image:url(r-image.png);
+	height:10px;
+	width:8px;
+}
+.photoframe-drop-shadow-b {
+	background-image:url(b.png);
+	background-position:bottom;
+	background-repeat:repeat-x;
+	text-align:left;
+}
+.photoframe-drop-shadow-b div {
+	background-image:url(b-image.png);
+	height:10px;
+	width:13px;
+}
+.photoframe-drop-shadow-tr div {
+	width:1px;
+	height:1px;
+	background-image:url(tr.png);
+}
+.photoframe-drop-shadow-tl div {
+	width:1px;
+	height:1px;
+	background-image:url(tl.png);
+}
+.photoframe-drop-shadow-br div {
+	width:8px;
+	height:10px;
+	background-image:url(br.png);
+}
+.photoframe-drop-shadow-bl div {
+	width:1px;
+	height:1px;
+	background-image:url(bl.png);
+}
+.photoframe-drop-shadow-content {
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Carpa de Baile</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/87/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>MC Mantisse</title>
+ <link>http://rocketfestival.com/en/content/mc-mantisse</link>
+ <description>&lt;p&gt;
+I am a drum&amp;amp;bass promoter(twist club .sala wind.placed in pza del carmen s/n.madrid,spain), electronics engineer, musician, producer and singer (actually involved in a music adventure as a drum&amp;amp;bass mc and producer.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/mc-mantisse&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/carpadebaile">Carpa de Baile</category>
+ <category domain="http://rocketfestival.com/en/mc-mantisse">MC Mantisse</category>
+ <pubDate>Tue, 29 Apr 2008 09:14:52 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">748 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - pendulum</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/53/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Pendulum - Granite</title>
+ <link>http://rocketfestival.com/en/content/pendulum-granite</link>
+ <description></description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/39">Videos</category>
+ <category domain="http://rocketfestival.com/en/pendulum">pendulum</category>
+ <pubDate>Mon, 04 Feb 2008 15:47:43 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">242 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Pendulum</title>
+ <link>http://rocketfestival.com/en/content/pendulum</link>
+ <description>&lt;p&gt;
+&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/en/content/pendulumpic&quot;&gt;&lt;img src=&quot;/files/images/pendulumpic.inline.jpg&quot; alt=&quot;Pendulumpic&quot; title=&quot;Pendulumpic&quot; class=&quot;image image-inline&quot; height=&quot;141&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;caption&quot; style=&quot;width: 298px&quot;&gt;&lt;b&gt;Pendulum&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/pendulum&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rocketfestival.com/en/content/pendulum#comments</comments>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/52">Headliners</category>
+ <category domain="http://rocketfestival.com/en/dancetent">Dance Tent</category>
+ <category domain="http://rocketfestival.com/en/pendulum">pendulum</category>
+ <pubDate>Mon, 04 Feb 2008 15:30:13 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">241 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

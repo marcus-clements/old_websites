@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - pendulum</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/53/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Pendulum</title>
+ <link>http://rocketfestival.com/es/content/pendulum-0</link>
+ <description>&lt;p&gt;
+Traduccion Pendiente
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/pendulum-0&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rocketfestival.com/es/content/pendulum-0#comments</comments>
+ <category domain="http://rocketfestival.com/es/cabezasdelcartel">Cabezas del Cartel</category>
+ <category domain="http://rocketfestival.com/es/carpadebaile">Carpa de Baile</category>
+ <category domain="http://rocketfestival.com/es/pendulum">pendulum</category>
+ <pubDate>Tue, 12 Feb 2008 16:36:08 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">359 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Pendulum - Granite</title>
+ <link>http://rocketfestival.com/es/content/pendulum-granite</link>
+ <description></description>
+ <category domain="http://rocketfestival.com/es/taxonomy/term/39">Videos</category>
+ <category domain="http://rocketfestival.com/es/pendulum">pendulum</category>
+ <pubDate>Mon, 04 Feb 2008 15:47:43 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">242 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

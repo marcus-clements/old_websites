@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Jude</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/177/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Jude</title>
+ <link>http://rocketfestival.com/en/content/jude</link>
+ <description>&lt;p&gt;
+&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/en/content/jude-smooth&quot;&gt;&lt;img src=&quot;/files/images/jude%20smooth.inline.jpg&quot; class=&quot;image image-inline&quot; height=&quot;300&quot; width=&quot;233&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
+Under these smooth looks and charming smile hides a genuine living and breathing musical encyclopaedia.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/jude&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/dancetent">Dance Tent</category>
+ <category domain="http://rocketfestival.com/en/jude">Jude</category>
+ <pubDate>Fri, 02 May 2008 11:58:18 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">765 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

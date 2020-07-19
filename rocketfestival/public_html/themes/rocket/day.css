@@ -1,0 +1,9 @@
+/* CSS Document */
+body { background: #ffffff url(images_day/bg_day.jpg) top center no-repeat }
+#header {	background: url(images_day/header_placeholder_day.jpg) top center no-repeat }
+#subwrapper {	background: url(images_day/content_bg_day.jpg) top center no-repeat }
+#under_header { background: url(images_day/breadcrumb-bg_day.jpg) top center no-repeat }
+#main_menu { background: url(images_day/primary_links_tile_day.gif) repeat-x  }
+#content_base_line { background: url(images_day/content_base_line_day.gif) center bottom no-repeat }
+#inside_footer { background: #c3e0ef url(images_day/footer_bg_day.gif) center bottom repeat-x }
+

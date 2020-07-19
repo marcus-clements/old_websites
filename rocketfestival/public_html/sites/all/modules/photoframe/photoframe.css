@@ -1,0 +1,40 @@
+.photoframe-sample-td {
+	width:49%;
+	padding:10px;
+	text-align:left;
+	vertical-align:middle;
+}
+.photoframe-sample-td div {
+	padding-bottom:5px;
+}
+.photoframe-sample-td div div {
+	padding-bottom:0px;
+}
+.photoframe-sample-table {
+	width:100%;
+}
+.photoframe-sample-table .form-item, label {
+	display:inline;
+	padding:0px;
+	margin:0px;
+}
+.photoframe-table {
+	border-collapse:collapse;
+	width:0%;
+}
+.photoframe-table td {
+	padding:0px;
+	border:0px;
+	margin:0px;
+	line-height:90%;
+}
+.photoframe-table td img {
+	border:0px;
+	vertical-align:top;
+}
+.photoframe-table tbody {
+	border:0px;
+}
+.photoframe-content {
+	width:100%;
+}

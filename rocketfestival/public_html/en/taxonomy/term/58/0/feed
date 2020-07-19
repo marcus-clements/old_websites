@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - The Nextmen</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/58/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>The Nextmen History</title>
+ <link>http://rocketfestival.com/en/content/nextmen-history</link>
+ <description>&lt;p&gt;&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/nextmen-history&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/11">Artists</category>
+ <category domain="http://rocketfestival.com/en/nextmen">The Nextmen</category>
+ <pubDate>Thu, 07 Feb 2008 23:48:34 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">266 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>The Nextmen FabricLive</title>
+ <link>http://rocketfestival.com/en/content/nextmen-fabriclive</link>
+ <description></description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/39">Videos</category>
+ <category domain="http://rocketfestival.com/en/nextmen">The Nextmen</category>
+ <pubDate>Thu, 07 Feb 2008 15:28:30 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">254 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>The Nextmen- Something got you</title>
+ <link>http://rocketfestival.com/en/content/nextmen-something-got-you</link>
+ <description></description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/39">Videos</category>
+ <category domain="http://rocketfestival.com/en/nextmen">The Nextmen</category>
+ <pubDate>Thu, 07 Feb 2008 15:23:42 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">253 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>The Nextmen</title>
+ <link>http://rocketfestival.com/en/content/nextmen</link>
+ <description>&lt;p&gt;&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/en/content/nextmen-live&quot;&gt;&lt;img src=&quot;/files/images/nextmen%20live.jpg&quot; alt=&quot;The Boys Live&quot; title=&quot;The Boys Live&quot; class=&quot;image image-inline&quot; height=&quot;180&quot; width=&quot;240&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;caption&quot; style=&quot;width: 238px&quot;&gt;&lt;b&gt;The Boys Live&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;Cambridge is mainly known for its famous university, an inordinate amount of cyclists, a terrible football team, a river made for punting, a folk festival and being the home of Stephen Hawking, Clive James and Jeffrey Archer.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/nextmen&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rocketfestival.com/en/content/nextmen#comments</comments>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/52">Headliners</category>
+ <category domain="http://rocketfestival.com/en/dancetent">Dance Tent</category>
+ <category domain="http://rocketfestival.com/en/nextmen">The Nextmen</category>
+ <pubDate>Thu, 07 Feb 2008 15:20:15 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">252 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

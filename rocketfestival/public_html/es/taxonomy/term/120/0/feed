@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Stick it On</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/120/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>DJ Dough Boy - Stick it On</title>
+ <link>http://rocketfestival.com/es/content/dj-dough-boy-stick-it</link>
+ <description></description>
+ <category domain="http://rocketfestival.com/es/taxonomy/term/39">Videos</category>
+ <category domain="http://rocketfestival.com/es/stick-it">Stick it On</category>
+ <pubDate>Sat, 05 Apr 2008 17:50:07 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">584 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>DJ Topspin - Stick it On</title>
+ <link>http://rocketfestival.com/es/content/dj-topspin-stick-it</link>
+ <description></description>
+ <category domain="http://rocketfestival.com/es/taxonomy/term/39">Videos</category>
+ <category domain="http://rocketfestival.com/es/stick-it">Stick it On</category>
+ <pubDate>Sat, 05 Apr 2008 17:47:51 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">583 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Stick It On</title>
+ <link>http://rocketfestival.com/es/content/stick-it-0</link>
+ <description>&lt;p&gt;
+&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/en/content/stick-it-crowd&quot;&gt;&lt;img src=&quot;/files/images/Rocket---NEW.inline.gif&quot; class=&quot;image image-inline&quot; height=&quot;212&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/span&gt; Para aquellos que nunca antes hayan visto Stick It On, aquí os hacemos un resumen sobre de qué va todo....
+&lt;/p&gt;
+&lt;p&gt;
+La idea surgió como resultado de estar hartos de que siempre sonara la misma música en los garitos nocturnos, los mismos temas cada predecible semana... Afrontémoslo: algunos garitos  nocturnos han olvidado el concepto de por qué empezamos a salir en un principio.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/stick-it-0&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/es/stick-it">Stick it On</category>
+ <pubDate>Sat, 05 Apr 2008 16:32:30 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">575 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

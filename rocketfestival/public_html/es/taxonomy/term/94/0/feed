@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Mercadillo</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/94/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Zona del Mercadillo</title>
+ <link>http://rocketfestival.com/es/content/zona-del-mercadillo</link>
+ <description>&lt;p&gt;&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/en/content/market-0&quot;&gt;&lt;img src=&quot;/files/images/market_0.inline.jpg&quot; class=&quot;image image-inline&quot; title=&quot;Market&quot; alt=&quot;Market&quot; height=&quot;126&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;&lt;span style=&quot;width: 298px&quot; class=&quot;caption&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;b&gt; Cafés, Bares y Puestos. &lt;/b&gt;La Zona del Mercado ofrecerá una excitante variedad de artesanía (ropa, piel, joyería, cerámica, etc..) de España, Sudamérica, África, India, China, Tíbet, Indonesia y Tailandia; además de una gran selección de comidas de calidad, productos biológicos, zumo, bares y cafés.&lt;/p&gt;
+</description>
+ <category domain="http://rocketfestival.com/es/taxonomy/term/24">Zonas</category>
+ <category domain="http://rocketfestival.com/es/mercadillo">Mercadillo</category>
+ <pubDate>Thu, 31 Jan 2008 16:07:22 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">231 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

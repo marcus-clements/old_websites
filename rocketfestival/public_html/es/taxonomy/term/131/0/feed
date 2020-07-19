@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Preset One</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/131/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Preset One</title>
+ <link>http://rocketfestival.com/es/content/preset-one</link>
+ <description>&lt;p&gt;Conjunto formado por Truemachine, Jka &amp;amp; Arthur Drummer a inicios del 2008.Todos ellos componentes del sello NoPreset Records, los cuales intenta aunar sus virtudes para dar forma a PRESET ONE.
+&lt;/p&gt;
+&lt;p&gt;Enfocando su música hacia el epicentro de la pista de baile, e intentando conseguir un directo con un sonido personal e identificativo.Entre Techno y Minimal se manejan los beats de este trio malagueño en cuanto a estilo se refiere.... Proximamente en su farmacia mas cercana.
+&lt;/p&gt;
+</description>
+ <category domain="http://rocketfestival.com/es/carpadebaile">Carpa de Baile</category>
+ <category domain="http://rocketfestival.com/es/preset-one">Preset One</category>
+ <pubDate>Tue, 15 Apr 2008 12:05:27 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">615 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

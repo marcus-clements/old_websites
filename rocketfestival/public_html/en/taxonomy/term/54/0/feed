@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - muchachito</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/54/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Muchachito Bombo Infierno</title>
+ <link>http://rocketfestival.com/en/content/muchachito-bombo-infierno-0</link>
+ <description>&lt;p&gt;&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/muchachito-bombo-infierno-0&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rocketfestival.com/en/content/muchachito-bombo-infierno-0#comments</comments>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/52">Headliners</category>
+ <category domain="http://rocketfestival.com/en/mainstage">Main Stage</category>
+ <category domain="http://rocketfestival.com/en/muchachito">muchachito</category>
+ <pubDate>Fri, 22 Feb 2008 16:47:23 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">415 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Muchachito - Azul</title>
+ <link>http://rocketfestival.com/en/content/muchachito-azul</link>
+ <description></description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/39">Videos</category>
+ <category domain="http://rocketfestival.com/en/muchachito">muchachito</category>
+ <pubDate>Mon, 04 Feb 2008 16:41:18 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">244 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

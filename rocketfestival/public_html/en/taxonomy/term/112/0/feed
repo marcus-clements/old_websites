@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Tom Wilkes</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/112/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Tom Wilkes</title>
+ <link>http://rocketfestival.com/en/content/tom-wilkes-1</link>
+ <description>&lt;p&gt;
+&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/en/content/tom-wilkes&quot;&gt;&lt;img src=&quot;/files/images/s638496750_680685_8094.jpg&quot; alt=&quot;Tom Wilkes&quot; title=&quot;Tom Wilkes&quot; class=&quot;image image-inline&quot; height=&quot;130&quot; width=&quot;97&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;caption&quot; style=&quot;width: 95px&quot;&gt;&lt;b&gt;Tom Wilkes&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;Tom Wilkes is a Breakbeat DJ based in Norwich UK.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/tom-wilkes-1&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rocketfestival.com/en/content/tom-wilkes-1#comments</comments>
+ <category domain="http://rocketfestival.com/en/dancetent">Dance Tent</category>
+ <category domain="http://rocketfestival.com/en/tom-wilkes">Tom Wilkes</category>
+ <pubDate>Tue, 12 Feb 2008 14:20:18 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">354 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

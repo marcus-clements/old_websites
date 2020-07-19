@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Galería</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/27/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Mejores Fotos del Rocket 2006</title>
+ <link>http://rocketfestival.com/es/content/mejores-fotos-del-rocket-2006</link>
+ <description>&lt;p&gt;&lt;div class=&quot;slideshowpro&quot; id=&quot;slideshowpro-1&quot;&gt;&lt;object classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; 
+      codebase=&quot;http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0&quot;  width=&quot;562&quot;   height=&quot;454&quot;  id=&quot;ssp-player-1&quot; align=&quot;middle&quot;&gt;
+      &lt;param name=&quot;allowScriptAccess&quot; value=&quot;sameDomain&quot; /&gt;
+      &lt;param name=&quot;FlashVars&quot; value=&quot;xmlfilepath=/slideshow_2006&amp;parameters=&quot; /&gt;
+      &lt;param name=&quot;movie&quot; value=&quot;/sites/all/modules/slideshowpro/ssp2.swf&quot; /&gt;
+      &lt;param name=&quot;quality&quot; value=&quot;high&quot; /&gt;
+      &lt;param name=&quot;bgcolor&quot; value=&quot;#ffffff&quot; /&gt;
+			&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;
+      &lt;embed FlashVars=&quot;xmlfilepath=/slideshow_2006&amp;parameters=&quot; src=&quot;/sites/all/modules/slideshowpro/ssp2.swf&quot; quality=&quot;high&quot; bgcolor=&quot;#ffffff&quot;  width=&quot;562&quot;   height=&quot;454&quot;  name=&quot;ssp-player-1&quot; allowFullScreen=&quot;true&quot; align=&quot;middle&quot; allowScriptAccess=&quot;sameDomain&quot; type=&quot;application/x-shockwave-flash&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot; /&gt; 
+    &lt;/object&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+ <category domain="http://rocketfestival.com/es/taxonomy/term/27">Galería</category>
+ <pubDate>Sat, 12 Jan 2008 17:24:52 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">23 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

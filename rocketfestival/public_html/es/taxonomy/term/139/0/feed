@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - D-Vice</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/139/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>D-Vice</title>
+ <link>http://rocketfestival.com/es/content/d-vice</link>
+ <description>&lt;p&gt;
+D-vice es una banda de drum n bass,breakbeat,electro y hip-hop. Formada a finales del 2007,aunque es resultado de 2 años duros de creación musical digital.
+&lt;/p&gt;
+&lt;p&gt;
+Una vez compuestos los temas y producidos se pasa a la fase de ensayo en local,donde los músicos darán vida analógica a este preproyecto digital. Componen la banda varios miembros,aunque el germen de esta banda tiene origen con el reencuentro de 2 músicos mc mantisse(producción y vocalista) y erikfreak(producción y batería).
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/d-vice&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/es/d-vice">D-Vice</category>
+ <category domain="http://rocketfestival.com/es/dancetent">Dance Tent</category>
+ <pubDate>Tue, 15 Apr 2008 15:31:48 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">633 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

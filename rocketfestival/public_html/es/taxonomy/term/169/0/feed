@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Loona</title>
+ <link>http://rocketfestival.com/es/taxonomy/term/169/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Loona</title>
+ <link>http://rocketfestival.com/es/content/loona</link>
+ <description>&lt;p&gt;
+La LoOna nace en el 1988,y poco despues se traslada a vivir a Salobreña(la costa de Granada). Alli junto con Orion,descubre los caminos del rap,que no son pocos...
+&lt;/p&gt;
+&lt;p&gt;
+Saludos a Detone,Niño Atroz,Truj,Kasper,Peya y todos los k siguen haciendo de esto nuestra leyenda urbana. Underground es el término diran algunos,grabando lo que salia a flote con pocos medios pero mucho empeño y sentimiento.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/es/content/loona&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/es/carpadebaile">Carpa de Baile</category>
+ <category domain="http://rocketfestival.com/es/loona">Loona</category>
+ <pubDate>Tue, 29 Apr 2008 08:09:22 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">742 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Evil Nine</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/60/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Evil Nine feat. Aesop Rock - Crooked</title>
+ <link>http://rocketfestival.com/en/content/evil-nine-feat-aesop-rock-crooked</link>
+ <description></description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/39">Videos</category>
+ <category domain="http://rocketfestival.com/en/evil-nine">Evil Nine</category>
+ <pubDate>Thu, 07 Feb 2008 17:05:29 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">260 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Evil Nine</title>
+ <link>http://rocketfestival.com/en/content/evil-nine</link>
+ <description>&lt;p&gt;&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/en/content/evil-nine-1&quot;&gt;&lt;img src=&quot;/files/images/evilnine.inline.jpg&quot; alt=&quot;Definitely Evil&quot; title=&quot;Definitely Evil&quot; class=&quot;image image-inline&quot; height=&quot;225&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;caption&quot; style=&quot;width: 298px&quot;&gt;&lt;b&gt;Definitely Evil&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;Tom and Pat first combined skills in 1998 and were quickly identified as a quality DJ/Producer duo by Adam Freeland who signed them to his Marine Parade label. Since then each of their releases has in turn distinguished Evil Nine as innovators who refuse to blend into any scene.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/evil-nine&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rocketfestival.com/en/content/evil-nine#comments</comments>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/52">Headliners</category>
+ <category domain="http://rocketfestival.com/en/dancetent">Dance Tent</category>
+ <category domain="http://rocketfestival.com/en/evil-nine">Evil Nine</category>
+ <pubDate>Thu, 07 Feb 2008 16:58:28 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">259 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

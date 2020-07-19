@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Artists</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/11/0</link>
+ <description>Who is performing or presenting their work at the festival</description>
+ <language>en</language>
+<item>
+ <title>Bad Manners&#039;s History</title>
+ <link>http://rocketfestival.com/en/content/bad-mannerss-history</link>
+ <description>&lt;p class=&quot;western&quot; align=&quot;center&quot;&gt;
+&lt;span style=&quot;font-family: Arial,Helvetica,sans-serif&quot;&gt;Introduction&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/bad-mannerss-history&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/11">Artists</category>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/52">Headliners</category>
+ <category domain="http://rocketfestival.com/en/mainstage">Main Stage</category>
+ <category domain="http://rocketfestival.com/en/bad-manners">Bad Manners</category>
+ <pubDate>Wed, 12 Mar 2008 14:42:23 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">500 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Serge Santiago History</title>
+ <link>http://rocketfestival.com/en/content/serge-santiago-history</link>
+ <description>&lt;p&gt;Serge Santiago on producing: “I started producing because I was&lt;br /&gt;
+clubbing so much and wanted some involvement, so, using my old computer&lt;br /&gt;
+I started to teach myself how to write beats. From there I must’ve&lt;br /&gt;
+written about 50 to 100 half tracks before I finished one… And that one&lt;br /&gt;
+was a track called ‘Push it’ (using a sample from the Salt n’Peppa&lt;br /&gt;
+track). It’s funny, listening back now I can hear myself learning&lt;br /&gt;
+within the track; it’s great! Anyway we decided it was a classic&lt;br /&gt;
+‘Stompa Phunk’ sounding record so ‘Push it’ was released 1999 on Stompa&lt;br /&gt;
+Phunk.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/serge-santiago-history&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/11">Artists</category>
+ <category domain="http://rocketfestival.com/en/serge-santiago">Serge Santiago</category>
+ <pubDate>Fri, 08 Feb 2008 16:33:47 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">280 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>The Nextmen History</title>
+ <link>http://rocketfestival.com/en/content/nextmen-history</link>
+ <description>&lt;p&gt;&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/nextmen-history&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/11">Artists</category>
+ <category domain="http://rocketfestival.com/en/nextmen">The Nextmen</category>
+ <pubDate>Thu, 07 Feb 2008 23:48:34 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">266 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Coldcut History</title>
+ <link>http://rocketfestival.com/en/content/coldcut-history</link>
+ <description>&lt;div class=&quot;content&quot;&gt;
+&lt;h3&gt;
+Jonathan More and Matt Black&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;p&gt;
+&amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/coldcut-history&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/11">Artists</category>
+ <category domain="http://rocketfestival.com/en/coldcut">coldcut</category>
+ <pubDate>Thu, 07 Feb 2008 08:20:27 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">247 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

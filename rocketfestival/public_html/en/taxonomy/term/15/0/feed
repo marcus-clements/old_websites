@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Location</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/15/0</link>
+ <description>How to find the festival and info about the surrounding area</description>
+ <language>en</language>
+<item>
+ <title>Bus from UK</title>
+ <link>http://rocketfestival.com/en/content/bus-uk</link>
+ <description>&lt;h3&gt;Routemaster trip to Rocket canceled&lt;/h3&gt;
+&lt;p&gt;
+&lt;br /&gt;
+We&#039;re very sorry to announce that due to circumstances beyond our control the Routemaster bus from London has been canceled. If you have reserved a seat and the nice people from Loco2 haven&#039;t got in touch already to offer you alternative travel options then please contact us through the contact page.
+&lt;/p&gt;
+&lt;p&gt;
+ The romantic overland train journey to the Rocket is the best alternative to the buses - see the &lt;a href=&quot;/rocket-rail-loco2&quot;&gt;By Rail from UK&lt;/a&gt; page.
+&lt;/p&gt;
+&lt;p&gt;
+&amp;nbsp;
+&lt;/p&gt;
+</description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/15">Location</category>
+ <pubDate>Thu, 13 Mar 2008 16:48:23 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">507 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>By Plane</title>
+ <link>http://rocketfestival.com/en/content/plane</link>
+ <description>&lt;p&gt;
+&lt;i&gt;Before booking your flight take a minute to consider travelling overland to the festival. Many people find overland travel more exciting and rewarding than flying if you have the time to spend, and it&#039;s generally better for the environment.&lt;/i&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/plane&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/15">Location</category>
+ <pubDate>Thu, 07 Feb 2008 23:06:45 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">265 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Rocket by Rail with  Loco2</title>
+ <link>http://rocketfestival.com/en/content/rocket-rail-loco2</link>
+ <description>&lt;p&gt;&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/rocket-rail-loco2&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/15">Location</category>
+ <pubDate>Thu, 07 Feb 2008 14:28:29 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">248 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Local Information</title>
+ <link>http://rocketfestival.com/en/content/local-information</link>
+ <description>&lt;h2&gt;Alhama de Granada&lt;/h2&gt;
+&lt;p&gt;&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/local-information&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/15">Location</category>
+ <pubDate>Wed, 30 Jan 2008 14:04:58 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">225 at http://rocketfestival.com</guid>
+</item>
+<item>
+ <title>Getting There</title>
+ <link>http://rocketfestival.com/en/content/getting-there</link>
+ <description>&lt;h2&gt;From within Spain &lt;/h2&gt;
+&lt;p&gt;&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/en/content/birdsof-paradise3&quot;&gt;&lt;img src=&quot;/files/images/BirdsOf%20Paradise3.inline.jpg&quot; alt=&quot;Gateway to Fun&quot; title=&quot;Gateway to Fun&quot; class=&quot;image image-inline&quot; height=&quot;300&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;caption&quot; style=&quot;width: 198px&quot;&gt;&lt;b&gt;Gateway to Fun&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/getting-there&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/15">Location</category>
+ <pubDate>Tue, 18 Dec 2007 15:58:49 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">12 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

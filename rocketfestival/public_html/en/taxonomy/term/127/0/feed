@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Los Vecino de Callejón</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/127/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Los Vecinos de Callejón</title>
+ <link>http://rocketfestival.com/en/content/los-vecinos-de-callejon-1</link>
+ <description>&lt;p&gt;
+&lt;span class=&quot;inline inline-left&quot;&gt;&lt;a href=&quot;/es/content/los-vecinos-de-callejon-0&quot;&gt;&lt;img width=&quot;300&quot; src=&quot;/files/images/Los%20Vecinos%20de%20Callej%C3%B3n.inline.jpg&quot; height=&quot;204&quot; class=&quot;image image-inline&quot; /&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;span class=&quot;inline inline-left&quot;&gt;Winners of the 2007 Andalucia Youth Music Festival pop category in Alhama de Granada, &lt;/span&gt;Los Vecinos del Callejón are eight young musicians who originally met up in an alleyway in Granada in 2005. 
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rocketfestival.com/en/content/los-vecinos-de-callejon-1&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://rocketfestival.com/en/mainstage">Main Stage</category>
+ <category domain="http://rocketfestival.com/en/los-vecino-de-callejon">Los Vecino de Callejón</category>
+ <pubDate>Tue, 08 Apr 2008 13:15:03 +0000</pubDate>
+ <dc:creator>gingerfrog</dc:creator>
+ <guid isPermaLink="false">600 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,10 @@
+/* CSS Document */
+body { background: #380000 url(images_night/bg.jpg) top center no-repeat }
+#header {	background: url(images_night/header_placeholder.jpg) top center no-repeat }
+#subwrapper {	background: url(images_night/content_bg.jpg) top center no-repeat }
+#under_header { background: url(images_night/breadcrumb-bg.jpg) top center no-repeat }
+#main_menu { background: url(images_night/primary_links_tile.gif) repeat-x  }
+#content_base_line { background: url(images_night/content_base_line.gif) center bottom no-repeat }
+#inside_footer {	background: #000000 url(images_night/footer_bg.gif) center bottom no-repeat }
+
+

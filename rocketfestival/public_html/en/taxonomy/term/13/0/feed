@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rocketfestival.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Rocket Festival - Tickets</title>
+ <link>http://rocketfestival.com/en/taxonomy/term/13/0</link>
+ <description>Buy tickets for the festival</description>
+ <language>en</language>
+<item>
+ <title>Buy Tickets</title>
+ <link>http://rocketfestival.com/en/content/buy-tickets</link>
+ <description>&lt;h3&gt;Tickets&lt;/h3&gt;
+&lt;p&gt;
+Tickets for Rocket 2009 are not available yet.
+&lt;/p&gt;
+&lt;p&gt;
+Earlybird tickets will be available from November.
+&lt;/p&gt;
+&lt;p&gt;
+See you at the best Rocket Festival yet in May 2009!  
+&lt;/p&gt;
+</description>
+ <category domain="http://rocketfestival.com/en/taxonomy/term/13">Tickets</category>
+ <pubDate>Mon, 14 Jan 2008 15:19:43 +0000</pubDate>
+ <dc:creator>RayVaughn</dc:creator>
+ <guid isPermaLink="false">27 at http://rocketfestival.com</guid>
+</item>
+</channel>
+</rss>
