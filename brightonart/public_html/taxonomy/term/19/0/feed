@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://brightonart.co.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Brightonart - soap</title>
+ <link>http://brightonart.co.uk/taxonomy/term/19/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Soap Server for Services 3, Drupal 6</title>
+ <link>http://brightonart.co.uk/blogs/soap-server-services-3-drupal-6</link>
+ <description>&lt;p&gt;Drupal has been making waves in enterprise circles as the collective work of the community allows developers to prototype web applications very rapidly and move them into implementation with few extra steps.  &lt;/p&gt;
+&lt;p&gt;At Brightonart we are being asked by our clients to make Drupal&#039;s library of UI tools available to other applications by connecting through web services such as REST and SOAP.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://brightonart.co.uk/blogs/soap-server-services-3-drupal-6&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://brightonart.co.uk/category/tags/drupal">Drupal</category>
+ <category domain="http://brightonart.co.uk/category/tags/services">services</category>
+ <category domain="http://brightonart.co.uk/category/tags/soap">soap</category>
+ <pubDate>Wed, 19 Jan 2011 15:01:20 +0000</pubDate>
+ <dc:creator>marcus</dc:creator>
+ <guid isPermaLink="false">44 at http://brightonart.co.uk</guid>
+</item>
+</channel>
+</rss>

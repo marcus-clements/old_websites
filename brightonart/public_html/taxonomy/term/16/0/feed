@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://brightonart.co.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Brightonart - nco</title>
+ <link>http://brightonart.co.uk/taxonomy/term/16/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Taxonomy NCO AKA &#039;Matchy Matchy&#039;</title>
+ <link>http://brightonart.co.uk/blogs/taxonomy-nco-aka-matchy-matchy</link>
+ <description>&lt;p&gt;We&#039;ve been working on an interesting new system over the past few years in the field of semantics.&lt;/p&gt;
+&lt;p&gt;It all started out with a big problem at the School of Everything. People were searching for music teachers and not finding people that had tagged their teaching profiles with piano. People looking for Martial Arts weren&#039;t finding teachers tagged with Tai Chi. The freetagging subjects vocabulary was getting out of control and the community was fragmenting as it expanded.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://brightonart.co.uk/blogs/taxonomy-nco-aka-matchy-matchy&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://brightonart.co.uk/category/tags/drupal">Drupal</category>
+ <category domain="http://brightonart.co.uk/category/tags/nco">nco</category>
+ <category domain="http://brightonart.co.uk/category/tags/semantics">semantics</category>
+ <category domain="http://brightonart.co.uk/category/tags/taxonomy">taxonomy</category>
+ <pubDate>Fri, 10 Dec 2010 11:25:07 +0000</pubDate>
+ <dc:creator>russell</dc:creator>
+ <guid isPermaLink="false">43 at http://brightonart.co.uk</guid>
+</item>
+</channel>
+</rss>

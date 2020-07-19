@@ -1,0 +1,13 @@
+DefaultType text/html
+
+RewriteEngine On
+
+RewriteRule ^projects/$ http://%{HTTP_HOST}/projects.1.html [L,R=302]
+RewriteRule ^people/$ http://%{HTTP_HOST}/people.html [L,R=302]
+RewriteRule ^blogs/$ http://%{HTTP_HOST}/blog.html [L,R=302]
+
+RewriteRule ^people/russell-blakeborough/$ http://%{HTTP_HOST}/people/russell-blakeborough.html [L,R=302]
+RewriteRule ^people/marcus-clements/$ http://%{HTTP_HOST}/people/marcus-clements.html [L,R=302]
+RewriteRule ^people/mark-scarratt/$ http://%{HTTP_HOST}/people/mark-scarratt.html [L,R=302]
+
+RewriteRule ^blogs/russell/$ http://%{HTTP_HOST}/blogs/russell.html [L,R=302]

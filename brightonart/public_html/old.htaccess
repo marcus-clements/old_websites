@@ -1,0 +1,28 @@
+DefaultType text/html
+
+# Use mod_security to drop POST - mod_security is not compiled into Apache yet so this wont work.
+# <IfModule mod_security.c>
+# SecFilterEngine On
+# Change the next line to log content of POSTs for debugging
+# SecFilterScanPOST Off
+# Drop POST requests
+# SecRule REQUEST_METHOD "@streq POST" "chain,log,drop,phase:1,msg:'Brute Force Attack Dropped"
+# </IfModule>
+
+<Limit POST>  
+order deny,allow  
+deny from all 
+allow from 127.0.0.1
+</Limit>
+
+RewriteEngine On
+# Permanent redirect for brightonart.org and brightonart.tv to the same page on brightonart.co.uk
+RewriteCond %{HTTP_HOST} ^(www\.)?brightonart\.org
+RewriteCond %{HTTP_HOST} ^(www\.)?brightonart\.tv
+RewriteRule (.*) http://brightonart.co.uk/$1 [R=301,L]
+
+# Because we have flattened the site to cope with the DDOS attack rewrite the directory urls to the flat urls
+RewriteRule ^projects/(.*)$ http://brightonart.co.uk/$1 [L,R=302]
+RewriteRule ^people/(.*)$ http://brightonart.co.uk/$1 [L,R=302]
+RewriteRule ^blog/(.*)$ http://brightonart.co.uk/$1 [L,R=302]
+RewriteRule ^category/tags/(.*)$ http://brightonart.co.uk/$1 [L,R=302]

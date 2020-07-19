@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://brightonart.co.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Brightonart - development</title>
+ <link>http://brightonart.co.uk/taxonomy/term/22/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Override node reference select list options in node edit form</title>
+ <link>http://brightonart.co.uk/blogs/override-node-reference-select-list-options-node-edit-form</link>
+ <description>&lt;p&gt;The requirement is to change the list of options for a node reference cck field to limit the select according to the user.  Creating a hook_form_alter in a custom module and do dpm($form) there is no &#039;#options&#039; element in the field.  This is because nodereference module adds it&#039;s stuff later in the form build process.  However there is a way - like so often in Drupal it takes a few web searches to find - and that is &#039;#afterbuild&#039;.&lt;/p&gt;
+&lt;p&gt;In the hook_form_alter&lt;br /&gt;
+&lt;code&gt;$form[&#039;#afterbuild&#039;][] = &#039;my_module_custom_function&#039;;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://brightonart.co.uk/blogs/override-node-reference-select-list-options-node-edit-form&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://brightonart.co.uk/category/tags/development">development</category>
+ <category domain="http://brightonart.co.uk/category/tags/drupal">Drupal</category>
+ <pubDate>Thu, 19 May 2011 08:39:04 +0000</pubDate>
+ <dc:creator>marcus</dc:creator>
+ <guid isPermaLink="false">50 at http://brightonart.co.uk</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://brightonart.co.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Brightonart - tasty</title>
+ <link>http://brightonart.co.uk/taxonomy/term/23/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Coq au Vin recipe</title>
+ <link>http://brightonart.co.uk/blogs/coq-au-vin-recipe</link>
+ <description>&lt;p&gt;My manager at Red Bee Lefty asked me for this recipe before I leave the company this evening so I thought I would post it for others to enjoy!&lt;/p&gt;
+&lt;h3&gt;Coq au Vin&lt;/h3&gt;
+&lt;p&gt;Makes enough for 8&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingredients:&lt;/strong&gt;&lt;br /&gt;
+Handful of Peeled shallots&lt;br /&gt;
+Handful of Carrots 2cm chunks&lt;br /&gt;
+Handful of Celery 2cm chunks&lt;br /&gt;
+Button chestnut mushrooms ( or quartered bigger ones)&lt;br /&gt;
+Handful of Baby plum tomatoes or cherry tomatoes&lt;br /&gt;
+2 Handfuls of Baby new potatoes (or 3cm cubes of bigger ones)&lt;br /&gt;
+2 small organic chickens chopped into pieces. I do two wings, 2 legs,&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://brightonart.co.uk/blogs/coq-au-vin-recipe&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://brightonart.co.uk/category/tags/french">french</category>
+ <category domain="http://brightonart.co.uk/category/tags/tasty">tasty</category>
+ <pubDate>Fri, 05 Aug 2011 14:36:51 +0000</pubDate>
+ <dc:creator>marcus</dc:creator>
+ <guid isPermaLink="false">51 at http://brightonart.co.uk</guid>
+</item>
+</channel>
+</rss>

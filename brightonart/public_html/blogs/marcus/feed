@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://brightonart.co.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>marcus&#039;s blog</title>
+ <link>http://brightonart.co.uk/blogs/marcus</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Remove the name and email cookies from the Drupal 7 core contact form</title>
+ <link>http://brightonart.co.uk/blogs/remove-name-and-email-cookies-drupal-7-core-contact-form</link>
+ <description>&lt;p&gt;The contact module in Drupal 7 core uses a pair of cookies to pre-fill name and email in the form for returning users.  Since the change in legislation around user details in cookies a lot of site owners will not want these cookies to be set.&lt;/p&gt;
+&lt;p&gt;Since editing core is a cardinal sin a good way to prevent the server setting these cookies is to add a submit hook for the contact form in a form alter in your own module.&lt;/p&gt;
+&lt;pre&gt;
+/**
+  * Implements hook_form_FORM_ID_alter().
+  */
+ function module_name_form_contact_site_form_alter(&amp;$form, &amp;$form_state, $form_id) {
+&lt;/pre&gt;&lt;p&gt;&lt;a href=&quot;http://brightonart.co.uk/blogs/remove-name-and-email-cookies-drupal-7-core-contact-form&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://brightonart.co.uk/category/tags/drupal">Drupal</category>
+ <pubDate>Tue, 30 Oct 2012 10:39:04 +0000</pubDate>
+ <dc:creator>marcus</dc:creator>
+ <guid isPermaLink="false">57 at http://brightonart.co.uk</guid>
+</item>
+<item>
+ <title>Education research and health research</title>
+ <link>http://brightonart.co.uk/blogs/education-research-and-health-research</link>
+ <description>&lt;p&gt;Brightonart has built websites for two new research companies that work with public and private organisations providing quantative and qualatative research services.&lt;/p&gt;
+&lt;p&gt;In the field of healthcare research KNV Research &lt;a href=&quot;http://knvresearch.com&quot;&gt;knvresearch.com&lt;/a&gt;&lt;br /&gt;
+&lt;p/&gt;
+&lt;p&gt;In the field of education research &lt;a href=&quot;http://edyou.co.uk&quot;&gt;edyou.co.uk&lt;/a&gt;&lt;/p&gt;
+&lt;/p/&gt;&lt;/p&gt;</description>
+ <pubDate>Wed, 24 Oct 2012 08:06:35 +0000</pubDate>
+ <dc:creator>marcus</dc:creator>
+ <guid isPermaLink="false">55 at http://brightonart.co.uk</guid>
+</item>
+<item>
+ <title>DOM ID encode PHP function</title>
+ <link>http://brightonart.co.uk/blogs/dom-id-encode-php-function</link>
+ <description>&lt;p&gt;I needed to encode strings in a reversible way to be valid as XHTML IDs (letters, numbers, &#039;-&#039; and &#039;_&#039;, must start with a letter).  The following encode and decode functions do just that.  If you are not using Drupal just replace drupal_substr() with your favourite multi-byte safe substr() function.&lt;/p&gt;
+&lt;pre&gt;
+
+/**
+ * Encode a string for use as a DOM id.
+ * 
+ * Replaces non-alphanumeric characters with an underscore and the hex representation of the character code
+ * with letters in lowercase
+&lt;/pre&gt;&lt;p&gt;&lt;a href=&quot;http://brightonart.co.uk/blogs/dom-id-encode-php-function&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://brightonart.co.uk/category/tags/dom">DOM</category>
+ <category domain="http://brightonart.co.uk/category/tags/drupal">Drupal</category>
+ <category domain="http://brightonart.co.uk/category/tags/php">PHP</category>
+ <pubDate>Thu, 08 Dec 2011 17:13:45 +0000</pubDate>
+ <dc:creator>marcus</dc:creator>
+ <guid isPermaLink="false">52 at http://brightonart.co.uk</guid>
+</item>
+<item>
+ <title>Coq au Vin recipe</title>
+ <link>http://brightonart.co.uk/blogs/coq-au-vin-recipe</link>
+ <description>&lt;p&gt;My manager at Red Bee Lefty asked me for this recipe before I leave the company this evening so I thought I would post it for others to enjoy!&lt;/p&gt;
+&lt;h3&gt;Coq au Vin&lt;/h3&gt;
+&lt;p&gt;Makes enough for 8&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingredients:&lt;/strong&gt;&lt;br /&gt;
+Handful of Peeled shallots&lt;br /&gt;
+Handful of Carrots 2cm chunks&lt;br /&gt;
+Handful of Celery 2cm chunks&lt;br /&gt;
+Button chestnut mushrooms ( or quartered bigger ones)&lt;br /&gt;
+Handful of Baby plum tomatoes or cherry tomatoes&lt;br /&gt;
+2 Handfuls of Baby new potatoes (or 3cm cubes of bigger ones)&lt;br /&gt;
+2 small organic chickens chopped into pieces. I do two wings, 2 legs,&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://brightonart.co.uk/blogs/coq-au-vin-recipe&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://brightonart.co.uk/category/tags/french">french</category>
+ <category domain="http://brightonart.co.uk/category/tags/tasty">tasty</category>
+ <pubDate>Fri, 05 Aug 2011 14:36:51 +0000</pubDate>
+ <dc:creator>marcus</dc:creator>
+ <guid isPermaLink="false">51 at http://brightonart.co.uk</guid>
+</item>
+<item>
+ <title>Override node reference select list options in node edit form</title>
+ <link>http://brightonart.co.uk/blogs/override-node-reference-select-list-options-node-edit-form</link>
+ <description>&lt;p&gt;The requirement is to change the list of options for a node reference cck field to limit the select according to the user.  Creating a hook_form_alter in a custom module and do dpm($form) there is no &#039;#options&#039; element in the field.  This is because nodereference module adds it&#039;s stuff later in the form build process.  However there is a way - like so often in Drupal it takes a few web searches to find - and that is &#039;#afterbuild&#039;.&lt;/p&gt;
+&lt;p&gt;In the hook_form_alter&lt;br /&gt;
+&lt;code&gt;$form[&#039;#afterbuild&#039;][] = &#039;my_module_custom_function&#039;;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://brightonart.co.uk/blogs/override-node-reference-select-list-options-node-edit-form&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://brightonart.co.uk/category/tags/development">development</category>
+ <category domain="http://brightonart.co.uk/category/tags/drupal">Drupal</category>
+ <pubDate>Thu, 19 May 2011 08:39:04 +0000</pubDate>
+ <dc:creator>marcus</dc:creator>
+ <guid isPermaLink="false">50 at http://brightonart.co.uk</guid>
+</item>
+<item>
+ <title>Netsounds A/V Workshop</title>
+ <link>http://brightonart.co.uk/blogs/netsounds-av-workshop</link>
+ <description>&lt;p&gt;&lt;span class=&quot;inline inline-left&quot;&gt;&lt;img src=&quot;http://brightonart.co.uk/sites/default/files/ifa_upload/gridio.jpg&quot; /&gt;&lt;span class=&quot;caption&quot; style=&quot;width: -2px;&quot;&gt;&lt;strong&gt;Gridio Interactive Audio Visual Installation&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;Brightonart presents the Netsounds audiovisual production workshop. This event is in association with Same Sky and occurs in the frame of “THE GREAT ESCAPE” Festival - Brighton UK.&lt;br /&gt;
+&lt;a href=&quot;http://netsoundsproject.eu/events/musical-and-scientific-education-audio-visual-production-workshop&quot;&gt;More information about the workshop on the Netsounds website&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;image-clear&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&quot;http://brightonart.co.uk/blogs/netsounds-av-workshop&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://brightonart.co.uk/category/tags/eu">EU</category>
+ <category domain="http://brightonart.co.uk/category/tags/music">music</category>
+ <pubDate>Sat, 07 May 2011 11:41:55 +0000</pubDate>
+ <dc:creator>marcus</dc:creator>
+ <guid isPermaLink="false">47 at http://brightonart.co.uk</guid>
+</item>
+<item>
+ <title>Drupal Association Member</title>
+ <link>http://brightonart.co.uk/blogs/drupal-association-member</link>
+ <description>&lt;p&gt;&lt;span class=&quot;inline inline-left&quot;&gt;&lt;img src=&quot;http://brightonart.co.uk/sites/default/files/ifa_upload/organization-badge.thumbnail.png&quot; /&gt;&lt;span class=&quot;caption&quot; style=&quot;width: -2px;&quot;&gt;&lt;strong&gt;Drupal Association&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt; At Brightonart we have employed open source software in our projects since 1998.  The benefits of open source are well documented and Drupal is a perfect demonstration of the power of a dedicated community to develop software which compares favourably with and surpasses proprietary closed source options.  During the development process, when we identify required functionality which is general enough to be useful to the community, we release modules on Drupal.org&lt;/p&gt;
+&lt;div class=&quot;image-clear&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&quot;http://brightonart.co.uk/blogs/drupal-association-member&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://brightonart.co.uk/category/tags/drupal">Drupal</category>
+ <pubDate>Sat, 07 May 2011 11:33:42 +0000</pubDate>
+ <dc:creator>marcus</dc:creator>
+ <guid isPermaLink="false">46 at http://brightonart.co.uk</guid>
+</item>
+<item>
+ <title>Soap Server for Services 3, Drupal 6</title>
+ <link>http://brightonart.co.uk/blogs/soap-server-services-3-drupal-6</link>
+ <description>&lt;p&gt;Drupal has been making waves in enterprise circles as the collective work of the community allows developers to prototype web applications very rapidly and move them into implementation with few extra steps.  &lt;/p&gt;
+&lt;p&gt;At Brightonart we are being asked by our clients to make Drupal&#039;s library of UI tools available to other applications by connecting through web services such as REST and SOAP.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://brightonart.co.uk/blogs/soap-server-services-3-drupal-6&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://brightonart.co.uk/category/tags/drupal">Drupal</category>
+ <category domain="http://brightonart.co.uk/category/tags/services">services</category>
+ <category domain="http://brightonart.co.uk/category/tags/soap">soap</category>
+ <pubDate>Wed, 19 Jan 2011 15:01:20 +0000</pubDate>
+ <dc:creator>marcus</dc:creator>
+ <guid isPermaLink="false">44 at http://brightonart.co.uk</guid>
+</item>
+<item>
+ <title>i18n_sync and i18n_helper</title>
+ <link>http://brightonart.co.uk/blogs/i18nsync-and-i18nhelper</link>
+ <description>&lt;p&gt;Our application has translated nodes with certain common fields synchronised using i18n_sync but we want the translation source node (in our case in English) to control these values and for them not to be editable in translated nodes.  A real world example of this problem would be a product content type with stock code common to all translations.  &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://brightonart.co.uk/blogs/i18nsync-and-i18nhelper&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://brightonart.co.uk/category/tags/drupal">Drupal</category>
+ <pubDate>Wed, 01 Dec 2010 15:18:23 +0000</pubDate>
+ <dc:creator>marcus</dc:creator>
+ <guid isPermaLink="false">42 at http://brightonart.co.uk</guid>
+</item>
+</channel>
+</rss>

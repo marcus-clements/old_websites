@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://brightonart.co.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Brightonart - DOM</title>
+ <link>http://brightonart.co.uk/taxonomy/term/25/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>DOM ID encode PHP function</title>
+ <link>http://brightonart.co.uk/blogs/dom-id-encode-php-function</link>
+ <description>&lt;p&gt;I needed to encode strings in a reversible way to be valid as XHTML IDs (letters, numbers, &#039;-&#039; and &#039;_&#039;, must start with a letter).  The following encode and decode functions do just that.  If you are not using Drupal just replace drupal_substr() with your favourite multi-byte safe substr() function.&lt;/p&gt;
+&lt;pre&gt;
+
+/**
+ * Encode a string for use as a DOM id.
+ * 
+ * Replaces non-alphanumeric characters with an underscore and the hex representation of the character code
+ * with letters in lowercase
+&lt;/pre&gt;&lt;p&gt;&lt;a href=&quot;http://brightonart.co.uk/blogs/dom-id-encode-php-function&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://brightonart.co.uk/category/tags/dom">DOM</category>
+ <category domain="http://brightonart.co.uk/category/tags/drupal">Drupal</category>
+ <category domain="http://brightonart.co.uk/category/tags/php">PHP</category>
+ <pubDate>Thu, 08 Dec 2011 17:13:45 +0000</pubDate>
+ <dc:creator>marcus</dc:creator>
+ <guid isPermaLink="false">52 at http://brightonart.co.uk</guid>
+</item>
+</channel>
+</rss>
